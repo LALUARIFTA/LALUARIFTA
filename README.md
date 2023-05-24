@@ -33,14 +33,14 @@
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@laluariftrasnaashari4794/videos#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@laluariftrasnaashari4794/videos#gh-dark-mode-only)
-
+&nbsp;&nbsp;
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lalu-arif-214803221/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lalu-arif-214803221/#gh-dark-mode-only)
-
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ll.trasna/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ll.trasna/#gh-dark-mode-only)
-
+&nbsp;&nbsp;
 
 
 [webdev]: https://github.com/LALUARIFTA/LALUARIFTA
