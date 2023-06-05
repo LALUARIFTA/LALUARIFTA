@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="NetBeans" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 
 <br />
