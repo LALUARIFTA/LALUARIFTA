@@ -1,6 +1,6 @@
 # Hi there, I'm Arif  - aka [Lalu Arif Trasna Ashari](https://www.youtube.com/@laluariftrasnaashari4794/videos) 👋
 ## About me:
-- 🌱 I’m currently learning Dart and Java
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything
 - 📫 How to reach me: gawahkocak@gmail.com
 
@@ -10,8 +10,8 @@
    - Core Team Proggraming comunity
    - Core Team GDSC
    - Member BEBRAS
- #### 2. [SMA N 1 Gerung](https://smansagerung.sch.id/) | MIPA | Gerung `2017-2020`
-   - Member PKS
+ #### 2. [SMA N 1 Gerung](https://smansagerung.sch.id/) | MIPA | Gerung ``
+   
 
 
 ---
