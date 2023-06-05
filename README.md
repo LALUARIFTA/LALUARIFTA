@@ -11,7 +11,8 @@
    - Core Team GDSC
    - Member BEBRAS
  #### 2. [SMA N 1 Gerung](https://smansagerung.sch.id/) | MIPA | Gerung ``
- #### 3. [SMP N 1 Gerung]() |  | Gerung ``
+ #### 3. [SMP N 1 Gerung]()   | Gerung ``
+  #### 3. [SD N 2 Gerung]()   | Gerung ``
 
 
 ---
