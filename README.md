@@ -11,8 +11,6 @@
    - Core Team GDSC
    - Member BEBRAS
  #### 2. [SMA N 1 Gerung](https://smansagerung.sch.id/) | MIPA | Gerung 
- #### 3. [SMP N 1 Gerung]()   | Gerung 
- #### 4. [SD N 2 Gerung]()   | Gerung 
 
 
 ---
@@ -26,11 +24,6 @@
 <br />
 <br />
 
----
-### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@laluariftrasnaashari4794/videos#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@laluariftrasnaashari4794/videos#gh-dark-mode-only)
 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lalu-arif-214803221/#gh-light-mode-only)
