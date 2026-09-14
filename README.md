@@ -84,8 +84,4 @@ Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** d
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LALUARIFTA&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/LALUARIFTA)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LALUARIFTA&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/LALUARIFTA)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LALUARIFTA&theme=tokyonight&hide_border=true)](https://github.com/LALUARIFTA)
