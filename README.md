@@ -1,4 +1,4 @@
-# Hi there, I'm Lalu Arif Trasna Ashari 👋
+# Hi there, I'm Lalu Arif Trasna Ashari 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laluariftrasnaashari/" target="_blank">
@@ -14,18 +14,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** dari Universitas BumiGora. Memiliki latar belakang yang kuat dalam administrasi jaringan, keamanan siber, infrastruktur *cloud*, dan pengembangan perangkat lunak, serta aktif sebagai pengajar dan pengembang kurikulum di komunitas teknologi.
 
-- 🔭 Saat ini bekerja sebagai **Asisten Teknologi Informasi** di BPR NTB.
-- 🌱 Sedang mendalami **DevOps, Kubernetes, dan Red Hat OpenShift**.
-- 💬 Tanya saya tentang: **Networking, Cybersecurity, Red Hat Linux, atau Web Development**.
-- 📍 Berdomisili di **Mataram, Nusa Tenggara Barat, Indonesia**.
+-  Saat ini bekerja sebagai **Asisten Teknologi Informasi** di BPR NTB.
+-  Sedang mendalami **DevOps, Kubernetes, dan Red Hat OpenShift**.
+-  Tanya saya tentang: **Networking, Cybersecurity, Red Hat Linux, atau Web Development**.
+-  Berdomisili di **Mataram, Nusa Tenggara Barat, Indonesia**.
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Programming & Frameworks**  
 <p align="left">
@@ -61,7 +61,7 @@ Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** d
 
 ---
 
-## 💼 Experience & Leadership
+##  Experience & Leadership
 
 | Posisi | Institusi | Periode | Fokus |
 | :--- | :--- | :--- | :--- |
@@ -72,7 +72,7 @@ Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** d
 
 ---
 
-## 📜 Top Certifications
+##  Top Certifications
 
 - **Red Hat OpenShift Administration I (DO180)** — Red Hat *(Jul 2025)*
 - **Red Hat Enterprise Linux Automation with Ansible (RH294)** — Red Hat *(Nov 2024)*
@@ -82,6 +82,6 @@ Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** d
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LALUARIFTA&theme=tokyonight&hide_border=true)](https://github.com/LALUARIFTA)
