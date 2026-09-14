@@ -16,35 +16,47 @@
 
 ## 🚀 About Me
 
-Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** dari Universitas BumiGora dengan IPK 3.85. Memiliki latar belakang kuat dalam administrasi jaringan, infrastruktur *cloud*, dan pengembangan perangkat lunak, serta aktif sebagai pengajar dan pemimpin kurikulum di berbagai komunitas teknologi.
+Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** dari Universitas BumiGora. Memiliki latar belakang yang kuat dalam administrasi jaringan, keamanan siber, infrastruktur *cloud*, dan pengembangan perangkat lunak, serta aktif sebagai pengajar dan pengembang kurikulum di komunitas teknologi.
 
 - 🔭 Saat ini bekerja sebagai **Asisten Teknologi Informasi** di BPR NTB.
 - 🌱 Sedang mendalami **DevOps, Kubernetes, dan Red Hat OpenShift**.
-- 💬 Tanya saya tentang: **Networking, Red Hat Linux, Ansible, atau Java**.
+- 💬 Tanya saya tentang: **Networking, Cybersecurity, Red Hat Linux, atau Web Development**.
 - 📍 Berdomisili di **Mataram, Nusa Tenggara Barat, Indonesia**.
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-**Infrastructure, Cloud & DevOps**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
-
 **Programming & Frameworks**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+**Infrastructure, Security & DevOps**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
+</p>
+
+**Tools, Routers & Databases**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/9Router-005C84?style=for-the-badge" alt="9Router" />
+  <img src="https://img.shields.io/badge/OmniRouter-2C2C2C?style=for-the-badge" alt="OmniRouter" />
 </p>
 
 ---
@@ -73,12 +85,12 @@ Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** d
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LALUARIFTA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LALUARIFTA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LALUARIFTA&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LALUARIFTA&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALUARIFTA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALUARIFTA&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 <p align="center">
