@@ -85,14 +85,13 @@ Saya adalah seorang **Network Engineer** dan lulusan **Ilmu Komputer (S.Kom)** d
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LALUARIFTA&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LALUARIFTA&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LALUARIFTA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LALUARIFTA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALUARIFTA&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALUARIFTA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
 <p align="center">
   <i>⭐ Let's connect and build something awesome together!</i>
 </p>
