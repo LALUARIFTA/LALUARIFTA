@@ -69,6 +69,12 @@ Tools lain: **9Router** dan **OmniRouter**.
 - **Basic Teller & Admin Operations** — PT BPR NTB PERSERODA · Agu 2026
 - **Belajar Dasar-Dasar DevOps & Jaringan Komputer** — Dicoding Indonesia
 
+## GitHub Contribution Skyline (3D)
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+</div>
+
 ## Mari terhubung
 
 Untuk diskusi teknologi atau peluang kolaborasi, hubungi saya melalui [LinkedIn](https://www.linkedin.com/in/laluariftrasnaashari/) atau [email](mailto:gawahkocak@gmail.com). Konten video tersedia di [YouTube](https://www.youtube.com/@laluariftrasnaashari4794/videos).
