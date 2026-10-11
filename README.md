@@ -12,6 +12,13 @@ Mataram, Nusa Tenggara Barat, Indonesia
 
 </div>
 
+<p align="center">
+  <a href="#tentang-saya">Tentang saya</a> ·
+  <a href="#teknologi--perangkat">Stack</a> ·
+  <a href="#pengalaman--kepemimpinan">Pengalaman</a> ·
+  <a href="#kontribusi-github">Kontribusi</a>
+</p>
+
 ---
 
 ## Tentang saya
@@ -23,6 +30,16 @@ Lulusan **Ilmu Komputer (S.Kom), Universitas Bumigora**, dengan fokus pada admin
 | **Saat ini** | Asisten Teknologi Informasi di **BPR NTB** |
 | **Sedang mendalami** | DevOps, Kubernetes, Red Hat OpenShift |
 | **Terbuka untuk diskusi** | Networking, cybersecurity, Red Hat Linux, web development |
+
+### Fokus kerja
+
+<table>
+  <tr>
+    <td width="33%"><strong>Network & IT Operations</strong><br>Menjaga layanan, jaringan, dan sistem tetap andal.</td>
+    <td width="33%"><strong>Linux & Automation</strong><br>Menyederhanakan pekerjaan berulang dengan otomasi.</td>
+    <td width="33%"><strong>Developer Education</strong><br>Membagikan pengetahuan melalui pengajaran dan kurikulum.</td>
+  </tr>
+</table>
 
 ---
 
@@ -70,9 +87,17 @@ Tools lain: **9Router** dan **OmniRouter**.
 
 ---
 
+## Cara saya bekerja
+
+- Memahami kebutuhan operasional sebelum memilih teknologi.
+- Mengutamakan solusi yang sederhana, terdokumentasi, dan mudah dirawat.
+- Belajar melalui praktik: Linux, jaringan, otomasi, dan pengembangan aplikasi.
+
+---
+
 <div align="center">
 
-**Mari terhubung**
+### Mari terhubung
 
 Untuk diskusi teknologi atau peluang kolaborasi, hubungi saya melalui [LinkedIn](https://www.linkedin.com/in/laluariftrasnaashari/) atau [email](mailto:gawahkocak@gmail.com).
 
