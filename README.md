@@ -13,10 +13,10 @@ Mataram, Nusa Tenggara Barat, Indonesia
 </div>
 
 <p align="center">
-  <a href="#tentang-saya">Tentang saya</a> ·
-  <a href="#teknologi--perangkat">Stack</a> ·
-  <a href="#pengalaman--kepemimpinan">Pengalaman</a> ·
-  <a href="#kontribusi-github">Kontribusi</a>
+  <a href="#tentang-saya"><img src="https://img.shields.io/badge/Tentang%20saya-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Tentang saya" /></a>
+  <a href="#teknologi--perangkat"><img src="https://img.shields.io/badge/Stack-238636?style=for-the-badge&logo=codefactor&logoColor=white" alt="Stack" /></a>
+  <a href="#pengalaman--kepemimpinan"><img src="https://img.shields.io/badge/Pengalaman-8957e5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Pengalaman" /></a>
+  <a href="#kontribusi-github"><img src="https://img.shields.io/badge/Kontribusi-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Kontribusi" /></a>
 </p>
 
 ---
@@ -35,14 +35,20 @@ Lulusan **Ilmu Komputer (S.Kom), Universitas Bumigora**, dengan fokus pada admin
 
 <table>
   <tr>
-    <td width="33%"><strong>Network & IT Operations</strong><br>Menjaga layanan, jaringan, dan sistem tetap andal.</td>
-    <td width="33%"><strong>Linux & Automation</strong><br>Menyederhanakan pekerjaan berulang dengan otomasi.</td>
-    <td width="33%"><strong>Developer Education</strong><br>Membagikan pengetahuan melalui pengajaran dan kurikulum.</td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/01-Network-0969da?style=for-the-badge" alt="Network" /><br><br>
+      Menjaga layanan, jaringan, dan sistem tetap andal.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/02-Automation-238636?style=for-the-badge" alt="Automation" /><br><br>
+      Menyederhanakan pekerjaan berulang dengan otomasi.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/03-Education-8957e5?style=for-the-badge" alt="Education" /><br><br>
+      Membagikan pengetahuan melalui pengajaran dan kurikulum.
+    </td>
   </tr>
 </table>
-
----
-
 ## Teknologi & perangkat
 
 | Area | Teknologi |
