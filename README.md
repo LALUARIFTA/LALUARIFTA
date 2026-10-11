@@ -9,6 +9,7 @@ Mataram, Nusa Tenggara Barat, Indonesia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laluariftrasnaashari/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gawahkocak@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@laluariftrasnaashari4794/videos)
+[![Dicoding](https://img.shields.io/badge/Dicoding-2D3E50?style=flat-square&logo=academia&logoColor=white)](https://www.dicoding.com/users/laluarifta/academies)
 
 </div>
 
@@ -105,7 +106,7 @@ Tools lain: **9Router** dan **OmniRouter**.
 
 ### Mari terhubung
 
-Untuk diskusi teknologi atau peluang kolaborasi, hubungi saya melalui [LinkedIn](https://www.linkedin.com/in/laluariftrasnaashari/) atau [email](mailto:gawahkocak@gmail.com).
+Untuk diskusi teknologi atau peluang kolaborasi, hubungi saya melalui [LinkedIn](https://www.linkedin.com/in/laluariftrasnaashari/), [email](mailto:gawahkocak@gmail.com), atau lihat profil belajar saya di [Dicoding](https://www.dicoding.com/users/laluarifta/academies).
 
 Konten video tersedia di [YouTube](https://www.youtube.com/@laluariftrasnaashari4794/videos).
 
